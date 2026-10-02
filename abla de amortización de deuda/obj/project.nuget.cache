@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xe2fkoofYPA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\crist\\OneDrive\\Documentos\\lpg2_C#\\abla de amortización de deuda\\abla de amortización de deuda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\crist\\.nuget\\packages\\spectre.console\\0.57.2\\spectre.console.0.57.2.nupkg.sha512",
+    "C:\\Users\\crist\\.nuget\\packages\\spectre.console.ansi\\0.57.2\\spectre.console.ansi.0.57.2.nupkg.sha512"
+  ],
+  "logs": []
+}

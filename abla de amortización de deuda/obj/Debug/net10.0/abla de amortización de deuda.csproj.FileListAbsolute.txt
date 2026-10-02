@@ -1,0 +1,18 @@
+C:\Users\crist\OneDrive\Documentos\lpg2_C#\abla de amortización de deuda\bin\Debug\net10.0\abla de amortización de deuda.exe
+C:\Users\crist\OneDrive\Documentos\lpg2_C#\abla de amortización de deuda\bin\Debug\net10.0\abla de amortización de deuda.deps.json
+C:\Users\crist\OneDrive\Documentos\lpg2_C#\abla de amortización de deuda\bin\Debug\net10.0\abla de amortización de deuda.runtimeconfig.json
+C:\Users\crist\OneDrive\Documentos\lpg2_C#\abla de amortización de deuda\bin\Debug\net10.0\abla de amortización de deuda.dll
+C:\Users\crist\OneDrive\Documentos\lpg2_C#\abla de amortización de deuda\bin\Debug\net10.0\abla de amortización de deuda.pdb
+C:\Users\crist\OneDrive\Documentos\lpg2_C#\abla de amortización de deuda\obj\Debug\net10.0\abla de amortización de deuda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\OneDrive\Documentos\lpg2_C#\abla de amortización de deuda\obj\Debug\net10.0\abla de amortización de deuda.AssemblyInfoInputs.cache
+C:\Users\crist\OneDrive\Documentos\lpg2_C#\abla de amortización de deuda\obj\Debug\net10.0\abla de amortización de deuda.AssemblyInfo.cs
+C:\Users\crist\OneDrive\Documentos\lpg2_C#\abla de amortización de deuda\obj\Debug\net10.0\abla de amortización de deuda.csproj.CoreCompileInputs.cache
+C:\Users\crist\OneDrive\Documentos\lpg2_C#\abla de amortización de deuda\obj\Debug\net10.0\abla de amortización de deuda.dll
+C:\Users\crist\OneDrive\Documentos\lpg2_C#\abla de amortización de deuda\obj\Debug\net10.0\refint\abla de amortización de deuda.dll
+C:\Users\crist\OneDrive\Documentos\lpg2_C#\abla de amortización de deuda\obj\Debug\net10.0\abla de amortización de deuda.pdb
+C:\Users\crist\OneDrive\Documentos\lpg2_C#\abla de amortización de deuda\obj\Debug\net10.0\abla de amortización de deuda.genruntimeconfig.cache
+C:\Users\crist\OneDrive\Documentos\lpg2_C#\abla de amortización de deuda\obj\Debug\net10.0\ref\abla de amortización de deuda.dll
+C:\Users\crist\OneDrive\Documentos\lpg2_C#\abla de amortización de deuda\bin\Debug\net10.0\Spectre.Console.dll
+C:\Users\crist\OneDrive\Documentos\lpg2_C#\abla de amortización de deuda\bin\Debug\net10.0\Spectre.Console.Ansi.dll
+C:\Users\crist\OneDrive\Documentos\lpg2_C#\abla de amortización de deuda\obj\Debug\net10.0\abla de amortización de deuda.csproj.AssemblyReference.cache
+C:\Users\crist\OneDrive\Documentos\lpg2_C#\abla de amortización de deuda\obj\Debug\net10.0\abla de .FC099BB5.Up2Date
